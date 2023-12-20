@@ -1,0 +1,14 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.portfolio{
+    width:30%;
+    margin: 0 auto;
+    text-align: center;
+}
+.portfolio img{
+    height:300px;
+    width: 300px;
+    margin: 25px 0px;
+}
